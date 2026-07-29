@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Planner",
+  "description": "Aplikasi Smart Study Planner berbasis web untuk membantu manajemen waktu belajar siswa SMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
